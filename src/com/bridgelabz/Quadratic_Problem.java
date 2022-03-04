@@ -1,5 +1,6 @@
 package com.bridgelabz;
 import java.util.Scanner;
+
 public class Quadratic_Problem {
 
             public static void main(String[] Strings)

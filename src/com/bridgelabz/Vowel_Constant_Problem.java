@@ -11,9 +11,9 @@ public class Vowel_Constant_Problem {
 
         int i = 0;
         if (ch == 'a' || ch == 'e' || ch == 'i' || ch == 'o' || ch == 'u') {
-            System.out.println("Entered character " + ch + " is  Vowel");
-        } else if ((ch >= 'a' && ch <= 'z') || (ch >= 'A' && ch <= 'Z'))
-            System.out.println("Entered character " + ch + " is Consonant");
+            System.out.println(ch + " is  Vowel");
+        } else if ((ch >= 'a' && ch <= 'z'))
+            System.out.println(ch + " is Consonant");
 
     }
 }

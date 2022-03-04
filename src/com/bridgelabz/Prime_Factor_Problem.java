@@ -1,6 +1,7 @@
 package com.bridgelabz;
 import java.util.Scanner;
 public class Prime_Factor_Problem {
+
     public static void main(String args[]){
         int number;
 
